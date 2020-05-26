@@ -283,6 +283,7 @@ knitr::kable(head(myfav,5))
 
 ```
 
+
 <table style="border:3px" >
 <tr  valign="center">
   <td bgcolor="#c4d7e0" rowspan="3">
