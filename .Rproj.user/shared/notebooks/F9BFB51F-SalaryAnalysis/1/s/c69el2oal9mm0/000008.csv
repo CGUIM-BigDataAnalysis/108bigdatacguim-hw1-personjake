@@ -1,0 +1,9 @@
+"0","data104$`大職業別`<-gsub(""—"","""",data104$`大職業別`)
+data107$`大職業別`<-gsub(""—"","""",data107$`大職業別`)
+"
+"2","Unknown or uninitialised column: `�j¾�~�O`."
+"2","錯誤: Assigned data `gsub(""—"", """", data107$大職業別)` must be compatible with existing data.
+[31mx[39m Existing data has 140 rows.
+[31mx[39m Assigned data has 0 rows.
+[34mi[39m Only vectors of size 1 are recycled.
+"

@@ -1,0 +1,41 @@
+"0","data104 <- read_csv(""C:/Users/joe10/Desktop/R/data104.csv"") 
+"
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¤jÂ¾·~§O = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [32mcol_double()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [31mcol_character()[39m,
+  `°ê¤¤¤Î¥H¤U-Á~¸ê` = [31mcol_character()[39m,
+  `°ê¤¤¤Î¥H¤U-¤k/¨k` = [31mcol_character()[39m,
+  `°ª¤¤©Î°ªÂ¾-Á~¸ê` = [31mcol_character()[39m,
+  `°ª¤¤©Î°ªÂ¾-¤k/¨k` = [31mcol_character()[39m,
+  `±M¬ì-Á~¸ê` = [31mcol_character()[39m,
+  `±M¬ì-¤k/¨k` = [31mcol_character()[39m,
+  `¤j¾Ç-Á~¸ê` = [31mcol_character()[39m,
+  `¤j¾Ç-¤k/¨k` = [31mcol_character()[39m,
+  `¬ã¨s©Ò¤Î¥H¤W-Á~¸ê` = [31mcol_character()[39m,
+  `¬ã¨s©Ò¤Î¥H¤W-¤k/¨k` = [31mcol_character()[39m
+)
+"
+"0","#ã€107å¹´åº¦ã€‘å„æ•™è‚²ç¨‹åº¦åˆ¥åˆä»»äººå“¡çš„è–ªè³‡è³‡æ–™"
+"0","data107 <- read_csv(""C:/Users/joe10/Desktop/R/data107.csv"") "
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¤jÂ¾·~§O107 = [31mcol_character()[39m,
+  ¤jÂ¾·~§O104 = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [31mcol_character()[39m,
+  `°ê¤¤¤Î¥H¤U-Á~¸ê` = [31mcol_character()[39m,
+  `°ê¤¤¤Î¥H¤U-¤k/¨k` = [31mcol_character()[39m,
+  `°ª¤¤©Î°ªÂ¾-Á~¸ê` = [31mcol_character()[39m,
+  `°ª¤¤©Î°ªÂ¾-¤k/¨k` = [31mcol_character()[39m,
+  `±M¬ì-Á~¸ê` = [31mcol_character()[39m,
+  `±M¬ì-¤k/¨k` = [31mcol_character()[39m,
+  `¤j¾Ç-Á~¸ê` = [31mcol_character()[39m,
+  `¤j¾Ç-¤k/¨k` = [31mcol_character()[39m,
+  `¬ã¨s©Ò-Á~¸ê` = [31mcol_character()[39m,
+  `¬ã¨s©Ò-¤k/¨k` = [31mcol_character()[39m
+)
+"

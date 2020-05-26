@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590505513847.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4CAA559A",
+    "lastKnownWriteTime" : 8026363914660965410,
+    "last_content_update" : 1590505513847,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8AF4E983",
+        "caption" : "SALARYCOMPARE",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=SALARYCOMPARE&cache_key=8AF4E983",
+        "displayedObservations" : "79",
+        "environment" : "",
+        "expression" : "SALARYCOMPARE",
+        "object" : "SALARYCOMPARE",
+        "preview" : "0",
+        "totalObservations" : "79",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
